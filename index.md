@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-[My first link](http://huijiex.github.com/edit/master/link1.md)
+[My first link](https://huijiex.github.io/link1.md)
 
 
 
