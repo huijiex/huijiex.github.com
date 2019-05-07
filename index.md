@@ -1,6 +1,6 @@
 ## Welcome to My Tech Park
 
-[ES6 Learning Notes](https://huijiex.github.io/ES6.md)
+[ES6 Learning Notes](https://huijiex.github.io/es6.md)
 
 
 You can use the [editor on GitHub](https://github.com/huijiex/huijiex.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
